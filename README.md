@@ -2,7 +2,7 @@
 the list of goals I will achieve before I die
 
 * [x] 海外留学する - study abroad **2022.03**
-* [ ] 地中海でバカンス - vacation on mediterranean countries
+* [x] 地中海でバカンス - vacation on mediterranean countries ""2022.08""
 * [ ] オーロラを見る - see aurora
 * [ ] 外国人と付き合う - go out with foreigners
 * [ ] ボートの免許をとる - get a boat license
