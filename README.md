@@ -9,7 +9,7 @@ the list of goals I will achieve before I die
 * [ ] Wolfgang's Steakhouseでステーキを食べる - have steak at Wolfgang's Steakhouse
 * [ ] 世界中どこにいても働ける職に就く- get a job which I can work from anywhere in the world
 * [ ] ベンチプレス100越え - break 100 in bench press
-* [ ] ゴルフでシングルになる - break 0 in golf
+* [ ] ゴルフでシングルになる - break 80 in golf
 * [ ] 家族４人で海外旅行にいく - travel abroad with my family
 * [ ] 陽キャになる - become an extrovert
 * [ ] 結婚する - get married
