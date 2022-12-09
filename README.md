@@ -7,11 +7,10 @@ the list of goals I will achieve before I die
 * [ ] 外国人と付き合う - go out with foreigners
 * [ ] ボートの免許をとる - get a boat license
 * [ ] Wolfgang's Steakhouseでステーキを食べる - have steak at Wolfgang's Steakhouse
-* [ ] 外資系IT企業に就職する - get a job offer from a foreign IT company
 * [ ] 世界中どこにいても働ける職に就く- get a job which I can work from anywhere in the world
 * [ ] ベンチプレス100越え - break 100 in bench press
-* [ ] ゴルフでシングルになる - break 100 in golf
-* [ ] 家族４人で海外旅行にいく - travel abroad with my whole family
+* [ ] ゴルフでシングルになる - break 0 in golf
+* [ ] 家族４人で海外旅行にいく - travel abroad with my family
 * [ ] 陽キャになる - become an extrovert
 * [ ] 結婚する - get married
 * [ ] 高級車を買う - buy a super car
